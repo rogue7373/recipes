@@ -1,5 +1,5 @@
 # Chicken Gloria
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/rogue/Projects/recipes/ChickenGloria/chicken-gloria-recipe-10-1024x1536.jpg?version%3D1710879985649)
+![alt text](https://github.com/rogue7373/recipes/blob/main/ChickenGloria/chicken-gloria-recipe-10-1024x1536.jpg)
 
 ## Ingredients
 - 3 large chicken breats
