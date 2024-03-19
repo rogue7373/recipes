@@ -1,5 +1,5 @@
 # Creamy Chicken in White Wine Sauce 
-![alt text]()
+![alt text](https://github.com/rogue7373/recipes/blob/main/CreamyChickenInWhiteWineSauce/creamy-white-wine-chicken-5-1024x1536.jpg)
 
 ## Ingredients
 - 2 large chicken breasts
