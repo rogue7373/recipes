@@ -12,7 +12,7 @@
 
 ## Instructions 
 
-### potatoes
+### Potatoes
 1. Preheat oven to 350F and spay a 9x13 baking dish with cooking spray. 
 2. Combine 2lb bag of frozen diced hashbrowns, 16oz sour cream, 1 can of cream of chicken, 1 stick of melted butter, 2 cups of shredded cheddar cheese, and garlic powder to taste. Mix together well until everything is coated evenly. 
 
