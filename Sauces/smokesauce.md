@@ -1,5 +1,5 @@
 # Smoked Bolognese Sauce
-A huge amount to feed a crowd This meaty sauce gets a beautiful woodfired flavor by smoking the mirepoix, ground meats, and sauce. 
+A huge amount to feed a crowd This meaty sauce gets a beautiful woodfired flavor by smoking the ground meats, and sauce. 
 
 ## Ingredients 
 - 3 lbs ground beef 
